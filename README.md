@@ -22,4 +22,4 @@ This project is part of **UC Berkeley's AI exercises**, focusing on optimizing *
 - Install **Python 3**
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-repo-url.git
+  git clone https://github.com/Panos994/Pacman-AI-University-Project.git
